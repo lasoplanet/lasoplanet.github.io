@@ -1,0 +1,1 @@
+## `<CarouselControl />`
