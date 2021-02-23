@@ -2,461 +2,462 @@
 # Laso 组件文档
 
 > 根据 Laso 组件注释自动生成的文档
-## [\<LSLottieView\>](/LSLottieView)
+## [\<LSLottieView\>](/docs/LSLottieView)
 
-  
+  基于 `lottie-react-native` 封装的组件
 
-  ## [\<LSDashedLine\>](/LSDashedLine)
+  ## [\<LSDashedLine\>](/docs/LSDashedLine)
 
-  
+  art 做画的虚线
 
-  ## [\<PhotoPicker\>](/PhotoPicker)
+  ## [\<PhotoPicker\>](/docs/PhotoPicker)
 
-  
+  打开相册或者相机的公用ActionSheet
 
-  ## [\<LSPayPicker\>](/LSPayPicker)
+  ## [\<LSPayPicker\>](/docs/LSPayPicker)
 
   
 
-  ## [\<LSTextInputDynamicView\>](/LSTextInputDynamicView)
+  ## [\<LSTextInputDynamicView\>](/docs/LSTextInputDynamicView)
 
   
 
-  ## [\<LSPickerHeader\>](/LSPickerHeader)
+  ## [\<LSPickerHeader\>](/docs/LSPickerHeader)
 
   
 
-  ## [\<LSNumberPicker\>](/LSNumberPicker)
+  ## [\<LSNumberPicker\>](/docs/LSNumberPicker)
 
   
 
-  ## [\<LSScrollpicker\>](/LSAreapicker)
+  ## [\<LSScrollpicker\>](/docs/LSAreapicker)
 
   
 
-  ## [\<BindWechatTipDialog\>](/BindWechatTipDialog)
+  ## [\<BindWechatTipDialog\>](/docs/BindWechatTipDialog)
 
   
 
-  ## [\<SvgUri\>](/SvgUri)
+  ## [\<SvgUri\>](/docs/SvgUri)
 
   
 
-  ## [\<SvgIcon\>](/SvgIcon)
+  ## [\<SvgIcon\>](/docs/SvgIcon)
 
   
 
-  ## [\<SvgButtonIcon\>](/SvgButtonIcon)
+  ## [\<SvgButtonIcon\>](/docs/SvgButtonIcon)
 
   
 
-  ## [\<LSScrollpicker\>](/LSDatetimepicker)
+  ## [\<LSScrollpicker\>](/docs/LSDatetimepicker)
 
   
 
-  ## [\<LSCommonCard\>](/LSCommonCard)
+  ## [\<LSCommonCard\>](/docs/LSCommonCard)
 
   
 
-  ## [\<undefined\>](/LSHeadWithCorner)
+  ## [\<LSHeadWithCorner\>](/docs/LSHeadWithCorner)
 
-  
+  带有尖角的头像框，可以随意自定义宽高，
+目前只支持尖角朝向左或右，如果有需求可以做朝其他方向的
 
-  ## [\<LSNodata\>](/LSNodata)
+  ## [\<LSNodata\>](/docs/LSNodata)
 
   
 
-  ## [\<LSShareDownloadPicker\>](/LSShareDownloadPicker)
+  ## [\<LSShareDownloadPicker\>](/docs/LSShareDownloadPicker)
 
   
 
-  ## [\<RotateCard\>](/RotateCard)
+  ## [\<RotateCard\>](/docs/RotateCard)
 
   
 
-  ## [\<LSSharepicker\>](/LSSharepicker)
+  ## [\<LSSharepicker\>](/docs/LSSharepicker)
 
   
 
-  ## [\<LSTabLabel\>](/LSTabLabel)
+  ## [\<LSTabLabel\>](/docs/LSTabLabel)
 
   
 
-  ## [\<BlurWrappedView\>](/BlurWrappedView)
+  ## [\<BlurWrappedView\>](/docs/BlurWrappedView)
 
-  
+  模糊组件，针对Android 做了特殊处理，抹平部分平台差异
 
-  ## [\<LSHerediyTable\>](/LSHeredityTable)
+  ## [\<LSHerediyTable\>](/docs/LSHeredityTable)
 
   
 
-  ## [\<LSSecondArticleCard\>](/LSSecondArticleCard)
+  ## [\<LSSecondArticleCard\>](/docs/LSSecondArticleCard)
 
   
 
-  ## [\<LSSecondStatusCard\>](/LSSecondStatusCard)
+  ## [\<LSSecondStatusCard\>](/docs/LSSecondStatusCard)
 
   
 
-  ## [\<LSFirstPageArticleImageTextCell\>](/LSFirstPageArticleImageTextCell)
+  ## [\<LSFirstPageArticleImageTextCell\>](/docs/LSFirstPageArticleImageTextCell)
 
   
 
-  ## [\<Tabbar\>](/Tabbar)
+  ## [\<Tabbar\>](/docs/Tabbar)
 
   
 
-  ## [\<Button\>](/Button)
+  ## [\<Button\>](/docs/Button)
 
   
 
-  ## [\<ScrollHeader\>](/ScrollHeader)
+  ## [\<ScrollHeader\>](/docs/ScrollHeader)
 
   
 
-  ## [\<TabView\>](/TabView)
+  ## [\<TabView\>](/docs/TabView)
 
   
 
-  ## [\<LSConfirm\>](/LSConfirm)
+  ## [\<LSConfirm\>](/docs/LSConfirm)
 
   
 
-  ## [\<LSDatepicker\>](/LSDatepicker)
+  ## [\<LSDatepicker\>](/docs/LSDatepicker)
 
   
 
-  ## [\<LSLotteryItem\>](/LSLotteryItem)
+  ## [\<LSLotteryItem\>](/docs/LSLotteryItem)
 
   
 
-  ## [\<LSLottery\>](/LSLottery)
+  ## [\<LSLottery\>](/docs/LSLottery)
 
   
 
-  ## [\<BottomDrawer\>](/BottomDrawer)
+  ## [\<BottomDrawer\>](/docs/BottomDrawer)
 
-  
+  底部抽屉 TODO
 
-  ## [\<VideoPlayer\>](/VideoPlayer)
+  ## [\<VideoPlayer\>](/docs/VideoPlayer)
 
   
 
-  ## [\<PopoverTag\>](/PopoverTag)
+  ## [\<PopoverTag\>](/docs/PopoverTag)
 
   
 
-  ## [\<ToastContainer\>](/ToastContainer)
+  ## [\<ToastContainer\>](/docs/ToastContainer)
 
   
 
-  ## [\<Toast\>](/Toast)
+  ## [\<Toast\>](/docs/Toast)
 
   
 
-  ## [\<LSBarCodeScanWindow\>](/LSBarCodeScanWindow)
+  ## [\<LSBarCodeScanWindow\>](/docs/LSBarCodeScanWindow)
 
   
 
-  ## [\<LSBarCodeScanChildren\>](/LSBarCodeScanChildren)
+  ## [\<LSBarCodeScanChildren\>](/docs/LSBarCodeScanChildren)
 
   
 
-  ## [\<LSBarCodeScanPage\>](/LSBarCodeScanPage)
+  ## [\<LSBarCodeScanPage\>](/docs/LSBarCodeScanPage)
 
   
 
-  ## [\<WaveView\>](/WaveView)
+  ## [\<WaveView\>](/docs/WaveView)
 
   
 
-  ## [\<LSConfirm\>](/Confirm)
+  ## [\<LSConfirm\>](/docs/Confirm)
 
-  
+  App统一样式的确认弹框
 
-  ## [\<LSConfirmContainer\>](/LSConfirmContainer)
+  ## [\<LSConfirmContainer\>](/docs/LSConfirmContainer)
 
   
 
-  ## [\<LSScrollpicker\>](/LSTimepicker)
+  ## [\<LSScrollpicker\>](/docs/LSTimepicker)
 
   
 
-  ## [\<LSPickerHeader\>](/LSPieChart)
+  ## [\<LSPickerHeader\>](/docs/LSPieChart)
 
   
 
-  ## [\<UpgradeDialog\>](/UpgradeDialog)
+  ## [\<UpgradeDialog\>](/docs/UpgradeDialog)
 
   
 
-  ## [\<SwitchButton\>](/SwitchButton)
+  ## [\<SwitchButton\>](/docs/SwitchButton)
 
   
 
-  ## [\<LSAreaChart\>](/LSAreaChart)
+  ## [\<LSAreaChart\>](/docs/LSAreaChart)
 
   
 
-  ## [\<LSSplitterText\>](/LSSplitterText)
+  ## [\<LSSplitterText\>](/docs/LSSplitterText)
 
   
 
-  ## [\<LSImageScanWidget\>](/LSImageScanWidget)
+  ## [\<LSImageScanWidget\>](/docs/LSImageScanWidget)
 
   
 
-  ## [\<PrivacyAgreementDialog\>](/PrivacyAgreementDialog)
+  ## [\<PrivacyAgreementDialog\>](/docs/PrivacyAgreementDialog)
 
   
 
-  ## [\<LSHeaderRightButton\>](/LSHeaderRightButton)
+  ## [\<LSHeaderRightButton\>](/docs/LSHeaderRightButton)
 
   
 
-  ## [\<ScreenCaptureShareWidget\>](/ScreenCaptureShareWidget)
+  ## [\<ScreenCaptureShareWidget\>](/docs/ScreenCaptureShareWidget)
 
   
 
-  ## [\<LSTextPickerLine\>](/LSTextPickerLine)
+  ## [\<LSTextPickerLine\>](/docs/LSTextPickerLine)
 
   
 
-  ## [\<LSSocialGuideDialog\>](/LSSocialGuideDialog)
+  ## [\<LSSocialGuideDialog\>](/docs/LSSocialGuideDialog)
 
   
 
-  ## [\<MainNavLeftSwitchButton\>](/MainNavLeftSwitchButton)
+  ## [\<MainNavLeftSwitchButton\>](/docs/MainNavLeftSwitchButton)
 
   
 
-  ## [\<MainTopBar\>](/MainTopBar)
+  ## [\<MainTopBar\>](/docs/MainTopBar)
 
   
 
-  ## [\<MainNavLeftButton\>](/MainNavLeftButton)
+  ## [\<MainNavLeftButton\>](/docs/MainNavLeftButton)
 
   
 
-  ## [\<LSTextListCell\>](/LSTextListCell)
+  ## [\<LSTextListCell\>](/docs/LSTextListCell)
 
   
 
-  ## [\<LSBoxWithName\>](/LSBoxWithName)
+  ## [\<LSBoxWithName\>](/docs/LSBoxWithName)
 
   
 
-  ## [\<LSPhenoAdDialog\>](/LSPhenoAdDialog)
+  ## [\<LSPhenoAdDialog\>](/docs/LSPhenoAdDialog)
 
   
 
-  ## [\<LSSlideModal\>](/LSSlideModal)
+  ## [\<LSSlideModal\>](/docs/LSSlideModal)
 
   
 
-  ## [\<LSButtonIcon\>](/LSButtonIcon)
+  ## [\<LSButtonIcon\>](/docs/LSButtonIcon)
 
   
 
-  ## [\<ScrollTabView\>](/ScrollTabView)
+  ## [\<ScrollTabView\>](/docs/ScrollTabView)
 
   
 
-  ## [\<ScrollTabbar\>](/ScrollTabbar)
+  ## [\<ScrollTabbar\>](/docs/ScrollTabbar)
 
   
 
-  ## [\<DynamioCarousel\>](/DynamioCarousel)
+  ## [\<DynamioCarousel\>](/docs/DynamioCarousel)
 
   
 
-  ## [\<MusicPlayProgress\>](/MusicPlayProgress)
+  ## [\<MusicPlayProgress\>](/docs/MusicPlayProgress)
 
   
 
-  ## [\<MusicPlayer\>](/MusicPlayer)
+  ## [\<MusicPlayer\>](/docs/MusicPlayer)
 
   
 
-  ## [\<MusicProgressView\>](/MusicProgressView)
+  ## [\<MusicProgressView\>](/docs/MusicProgressView)
 
   
 
-  ## [\<MarqueeHorizontal\>](/MarqueeHorizontalText)
+  ## [\<MarqueeHorizontal\>](/docs/MarqueeHorizontalText)
 
   
 
-  ## [\<BoxInfoWidget\>](/BoxInfoWidget)
+  ## [\<BoxInfoWidget\>](/docs/BoxInfoWidget)
 
   
 
-  ## [\<SmoothPinCodeInput\>](/CodeInput)
+  ## [\<SmoothPinCodeInput\>](/docs/CodeInput)
 
   
 
-  ## [\<GradientScrollView\>](/GradientScrollView)
+  ## [\<GradientScrollView\>](/docs/GradientScrollView)
 
   
 
-  ## [\<LSVoteButtons\>](/LSVoteButtons)
+  ## [\<LSVoteButtons\>](/docs/LSVoteButtons)
 
   
 
-  ## [\<LSBigInputBox\>](/LSBigInputBox)
+  ## [\<LSBigInputBox\>](/docs/LSBigInputBox)
 
   
 
-  ## [\<LSScrollpicker\>](/LSScrollpicker)
+  ## [\<LSScrollpicker\>](/docs/LSScrollpicker)
 
   
 
-  ## [\<undefined\>](/LSPickerFooter)
+  ## [\<undefined\>](/docs/LSPickerFooter)
 
   
 
-  ## [\<LSLoading\>](/LSLoading)
+  ## [\<LSLoading\>](/docs/LSLoading)
 
   
 
-  ## [\<LSJobpicker\>](/LSJobpicker)
+  ## [\<LSJobpicker\>](/docs/LSJobpicker)
 
   
 
-  ## [\<TextWidget\>](/TextWidget.android)
+  ## [\<TextWidget\>](/docs/TextWidget.android)
 
   
 
-  ## [\<TextWidget\>](/TextWidget.ios)
+  ## [\<TextWidget\>](/docs/TextWidget.ios)
 
   
 
-  ## [\<LSButtonIconText\>](/LSButtonIconText)
+  ## [\<LSButtonIconText\>](/docs/LSButtonIconText)
 
   
 
-  ## [\<LSBadge\>](/LSBadge)
+  ## [\<LSBadge\>](/docs/LSBadge)
 
   
 
-  ## [\<App\>](/ReactNativeEchartsMap)
+  ## [\<App\>](/docs/ReactNativeEchartsMap)
 
   
 
-  ## [\<App\>](/Container)
+  ## [\<App\>](/docs/Container)
 
   
 
-  ## [\<App\>](/Echarts)
+  ## [\<App\>](/docs/Echarts)
 
   
 
-  ## [\<LSArrow\>](/LSArrow)
+  ## [\<LSArrow\>](/docs/LSArrow)
 
   
 
-  ## [\<CarouselControl\>](/PhotoControl)
+  ## [\<CarouselControl\>](/docs/PhotoControl)
 
   
 
-  ## [\<PhotoWallView\>](/PhotoWallView)
+  ## [\<PhotoWallView\>](/docs/PhotoWallView)
 
   
 
-  ## [\<PhotoWall\>](/PhotoWall)
+  ## [\<PhotoWall\>](/docs/PhotoWall)
 
   
 
-  ## [\<undefined\>](/LSCarousel)
+  ## [\<undefined\>](/docs/LSCarousel)
 
   横向滚动且sliderWidth和itemWidth不一样时，最后一个item 会有空白
 用这个组件可以去掉空白，需要传入 layout='noEndSpace'
 其实是基于原来的 Craousel 扩展了一种 layout
 
-  ## [\<PullToView\>](/PullToView)
+  ## [\<PullToView\>](/docs/PullToView)
 
   
 
-  ## [\<CountDownTimer\>](/CountDownTimer)
+  ## [\<CountDownTimer\>](/docs/CountDownTimer)
 
   
 
-  ## [\<SecondsDown\>](/secondsDown)
+  ## [\<SecondsDown\>](/docs/secondsDown)
 
   
 
-  ## [\<DiscountDialog\>](/DiscountDialog)
+  ## [\<DiscountDialog\>](/docs/DiscountDialog)
 
   
 
-  ## [\<ScrollableTabBar\>](/ScrollableTabBar)
+  ## [\<ScrollableTabBar\>](/docs/ScrollableTabBar)
 
   
 
-  ## [\<LSEmojiSelector\>](/LSEmojiSelector)
+  ## [\<LSEmojiSelector\>](/docs/LSEmojiSelector)
 
   
 
-  ## [\<MakeItRain\>](/MakeItRain)
+  ## [\<MakeItRain\>](/docs/MakeItRain)
 
   
 
-  ## [\<SnackBarView\>](/SnackBarView)
+  ## [\<SnackBarView\>](/docs/SnackBarView)
 
   
 
-  ## [\<LSTabIcons\>](/LSTabIcons)
+  ## [\<LSTabIcons\>](/docs/LSTabIcons)
 
   
 
-  ## [\<LSOverlayView\>](/LSOverlayView)
+  ## [\<LSOverlayView\>](/docs/LSOverlayView)
 
   
 
-  ## [\<LSTextInputLine\>](/LSTextInputLine)
+  ## [\<LSTextInputLine\>](/docs/LSTextInputLine)
 
   
 
-  ## [\<ScrollTabBarView\>](/ScrollTabBarView)
+  ## [\<ScrollTabBarView\>](/docs/ScrollTabBarView)
 
   
 
-  ## [\<GradientTopBar\>](/GradientTopBar)
+  ## [\<GradientTopBar\>](/docs/GradientTopBar)
 
   
 
-  ## [\<LSSwitchBox\>](/LSSwitchBox)
+  ## [\<LSSwitchBox\>](/docs/LSSwitchBox)
 
   
 
-  ## [\<LSButton\>](/LSButton)
+  ## [\<LSButton\>](/docs/LSButton)
 
   
 
-  ## [\<LSPullViewLoading\>](/LSPullViewLoading)
+  ## [\<LSPullViewLoading\>](/docs/LSPullViewLoading)
 
   
 
-  ## [\<LSParabola\>](/LSParabola)
+  ## [\<LSParabola\>](/docs/LSParabola)
 
   
 
-  ## [\<WechatAuthDialog\>](/WechatAuthDialog)
+  ## [\<WechatAuthDialog\>](/docs/WechatAuthDialog)
 
   
 
-  ## [\<LSCommonLine\>](/LSCommonLine)
+  ## [\<LSCommonLine\>](/docs/LSCommonLine)
 
   
 
-  ## [\<Highlighter\>](/HighlightText)
+  ## [\<Highlighter\>](/docs/HighlightText)
 
   
 
-  ## [\<ScrollImgSelect\>](/LSScrollImgSelect)
+  ## [\<ScrollImgSelect\>](/docs/LSScrollImgSelect)
 
   
 
-  ## [\<LSShareModal\>](/LSShareModal)
+  ## [\<LSShareModal\>](/docs/LSShareModal)
 
   
 
